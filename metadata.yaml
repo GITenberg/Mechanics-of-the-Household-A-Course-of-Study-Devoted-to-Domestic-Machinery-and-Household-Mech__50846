@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Mechanics of the Household
 
   A Course of Study Devoted to Domestic Machinery and Household Mechanical Appliances'
